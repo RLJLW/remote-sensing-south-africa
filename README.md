@@ -2,6 +2,10 @@
 
 ## Remote Sensing Landscapes and Events in South Africa
 
+Overberg Fire Position 19 November Seen from above (found by mysql
+https://worldview.earthdata.nasa.gov/?v=20.273811118522065,-34.534299204037474,20.79595627385528,-34.295123036110645&l=Admin_Boundaries,DoS_International_Boundaries,Coastlines_15m,Reference_Labels_15m,HLS_S30_Nadir_BRDF_Adjusted_Reflectance,OPERA_L3_Dynamic_Surface_Water_Extent-HLS(hidden,disabled=5),Land_Water_Map(hidden)&lg=true&t=2026-11-19-T10%3A00%3A00Z
+
+
 Latest Events
 
 
